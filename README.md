@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexis-g-k
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me. You can't.
 
 <!---
